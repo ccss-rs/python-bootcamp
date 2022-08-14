@@ -1,0 +1,5 @@
+name: python-bootcamp-interactive
+channels:
+  - conda-forge
+dependencies:
+  - pandas
